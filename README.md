@@ -2,7 +2,8 @@
 <li> 👋🏻 Hi, I’m Souvik Chakraborty, CSE Undergrad | AOT '24 </li>
 <li> 👀 I'm enthusiastic about learning budding technologies and gaining new experiences </li>
 <li> 🌱 I’m currently learning Data Structures & Algorithms and Object Oriented Programming </li>
-<li> ⚡ Cricket🏏 & Coding 👨‍💻 are not only my hobbies rather my passion </li>
+<li> 👨🏻‍💻 I mainly use Java for Coding. But I am equally able to Code in Python & C </li>
+<li> ⚡ Cricket🏏 & Coding 👨🏻‍💻 are not only my hobbies rather my passion </li>
 <li> 📫 Reach me at <strong><a href="mailto:souvikchakraborty2411@gmail.com">souvikchakraborty2411@gmail.comm</a></strong></li>
 
 <!---
